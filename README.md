@@ -8,12 +8,12 @@
         <th>Minu perekonnanimi:</th>
         <b>
         <th>Martiklinumber:</th>
-    </tr>
+    
     <tr>
     	<th>Tiina</th>
         <th>Tali</th>
         <th>206120IACB</th>    
-        </h2>	
+        	
 
 <h1>TEN THINGS I HATE ABOUT YOU</h1>
 <h1>Martiklinumber : 206120IACB</h1>
